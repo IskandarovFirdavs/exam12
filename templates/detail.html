@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Folder Detail</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+        margin: 0;
+        padding: 0;
+      }
+
+      h1 {
+        text-align: center;
+        color: #4caf50;
+        margin-top: 20px;
+      }
+
+      p {
+        text-align: center;
+        font-size: 1.2em;
+        margin: 20px;
+        color: #555;
+      }
+
+      img {
+        display: block;
+        margin: 20px auto;
+        max-width: 100%;
+        height: 300px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>{{ folder.title }}</h1>
+    <p>{{ folder.description }}</p>
+    <img src="{{ folder.image.url }}" alt="" />
+  </body>
+</html>

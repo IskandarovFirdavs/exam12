@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-08 18:33+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+#: .\exam12\settings.py:98
+msgid "English"
+msgstr "Ingliz tili"
+
+#: .\exam12\settings.py:99
+msgid "Uzbek"
+msgstr "O'zbek tili"
+
+#: .\exam12\settings.py:100
+msgid "Russian"
+msgstr "Rus tili"
+
+#: .\folder\models.py:5
+msgid "Title"
+msgstr "Sarlavha"
+
+#: .\folder\models.py:6
+msgid "Description"
+msgstr "Ta'rif"
+
+#: .\folder\models.py:7
+msgid "Image"
+msgstr "Rasm"
+
+#: .\folder\models.py:8
+msgid "Created At"
+msgstr "Yaratilgan sana"
+
+#: .\folder\models.py:11
+msgid "Folder"
+msgstr "Papka"
+
+#: .\folder\models.py:12
+msgid "Folders"
+msgstr "Papkalar"
