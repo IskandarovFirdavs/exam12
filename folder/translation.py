@@ -3,4 +3,4 @@ from .models import Folder
 
 @register(Folder)
 class FolderModelTranslationOptions(TranslationOptions):
-    fields = ("title",)
+    fields = ("title", "description")

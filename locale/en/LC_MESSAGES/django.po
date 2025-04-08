@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-08 18:33+0500\n"
+"POT-Creation-Date: 2025-04-08 18:52+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
 #: .\exam12\settings.py:98
 msgid "English"
 msgstr ""
@@ -51,4 +52,16 @@ msgstr ""
 
 #: .\folder\models.py:12
 msgid "Folders"
+msgstr ""
+
+#: .\templates\home.html:11
+msgid "Welcome"
+msgstr ""
+
+#: .\templates\home.html:12
+msgid ", Home Page"
+msgstr ""
+
+#: .\templates\home.html:16
+msgid "Welcome , Home Page"
 msgstr ""
